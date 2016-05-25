@@ -1,0 +1,50 @@
+<resources xmlns:xliff="http://schemas.android.com/apk/res-auto">
+    <string name="app_name">智能家具</string>
+    <string name="send">Send</string>
+    <string name="not_connected">你没有连接到一个设备</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+    <string name="title_connecting">连接. ..</string>
+    <string name="title_connected_to">连接到 <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">没有连接</string>
+    <string name="bluetooth_connected_first">请先连接蓝牙</string>
+    <string name="success_connected">连接成功</string>
+    <string name="failed_connected">连接失败</string>
+    <string name="blutooth_is_null">没有蓝牙设备</string>
+
+
+    <!--  DeviceListActivity -->
+    <string name="scanning">扫描蓝牙中...</string>
+    <string name="select_device">选择一个设备进行连接</string>
+    <string name="none_paired">没有配对的设备</string>
+    <string name="none_found">找不到设备</string>
+    <string name="title_paired_devices">配对的设备</string>
+    <string name="title_other_devices">其他可用的设备</string>
+    <string name="button_scan">扫描设备</string>
+    <string name="title_activity_text">TextActivity</string>
+
+    <string name="lanya">请先点击左下角蓝牙按键开启蓝牙,并与终端设备进行匹配</string>
+    <string name="connect">点击连接按键,选择您所需要连接的终端设备.当系统提示连接成功后就可以进行对设备的操作</string>
+    <string name="all">全部按键：可以控制水阀的即时开启和关闭</string>
+    <string name="timing">定时按键:可以设定水阀开启和关闭的时间、通道,请选择周期、通道、开启和关闭，之后点击按键进行定时</string>
+    <string name="cycle">周期：选择开启的星期</string>
+    <string name="valve">通道：选择开启的通道</string>
+    <string name="open">开启：选择开启的时间</string>
+    <string name="off">关闭：选择结束的时间</string>
+
+    <string name="success_timetask">定时成功</string>
+    <string name="time_is_first">请设定时间</string>
+
+    <string name="switch1">点击了开关1</string>
+    <string name="switch2">点击了开关2</string>
+    <string name="switch3">点击了开关3</string>
+    <string name="switch4">点击了开关4</string>
+
+    <string name="send_text">校准时间</string>
+    <string name="get_text">获取时间</string>
+    <string name="take_time">开启定时</string>
+    <string name="mac_time">设备时间</string>
+    <string name="success_time">时间校准成功</string>
+
+
+
+</resources>
